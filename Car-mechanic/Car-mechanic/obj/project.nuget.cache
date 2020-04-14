@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfzoLodPv3Z2G7EfiKg8fv0ObGFQwUFH/wUD7EMMRSfqg7gpabsFxCr9TWSdPaqqXKnUQ4QlKEL/RDlaa0qx1g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Car-mechanic\\Car-mechanic\\Car-mechanic\\Car-mechanic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pti4life\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
